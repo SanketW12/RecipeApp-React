@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  background-color: #313131;
+}
+
+.header input {
+  color: white;
+  width: 300px;
+  margin-right: 20px;
+}
